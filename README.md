@@ -2,4 +2,4 @@
 
 Repositorio para a disciplina de Programacao 2 
 
-## Tipos Primitivos
+## 1) Tipos Primitivos
