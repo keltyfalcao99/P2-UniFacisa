@@ -26,3 +26,5 @@ Reais em ponto flutuante: igual que os inteiros também diferem nas precisões e
 Float: 4 bytes.
 
 Double: 8 bytes.
+
+## Exercicio #1
