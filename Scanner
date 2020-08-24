@@ -1,4 +1,4 @@
-##Classe Scanner
+Classe Scanner
 
 Usando a Classe Scanner no Java Quando se começa a conhecer os princípios da programação, com o tempo surge a vontade do desenvolvedor iniciante a trabalhar com programas no modo texto (console). Com esse princípio, muitos começam a usar a classe Scanner, pois tem justamente a finalidade de facilitar a entrada de dados no modo Console. Essa classe apareceu a partir do Java 5, antes dessa versão era complicado criar programas que recebiam valores de variáveis no modo Console.
 
