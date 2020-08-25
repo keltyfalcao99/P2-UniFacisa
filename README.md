@@ -38,4 +38,4 @@ A classe Scanner tem como objetivo separar a entrada dos textos em blocos, geran
 
 Com essa classe podem ser convertidos textos para tipos primitivos, sendo que esses textos podem ser considerados como objetos do tipo String, InputStream e arquivos.
 
-## Exercicio #1
+## 
